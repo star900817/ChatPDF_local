@@ -18,6 +18,7 @@ bitsandbytes
 click
 flask
 requests
+os
 
 # Excel File Manipulation
 openpyxl
